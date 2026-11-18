@@ -1,0 +1,13 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="search" clip-path="url(#clip0_9109_30303)">
+<g id="Vector">
+<path d="M6.77694 11.8596C9.58404 11.8596 11.8596 9.58404 11.8596 6.77694C11.8596 3.96984 9.58404 1.69423 6.77694 1.69423C3.96984 1.69423 1.69423 3.96984 1.69423 6.77694C1.69423 9.58404 3.96984 11.8596 6.77694 11.8596ZM6.77694 13.5539C10.5197 13.5539 13.5539 10.5197 13.5539 6.77694C13.5539 3.03414 10.5197 0 6.77694 0C3.03414 0 0 3.03414 0 6.77694C0 10.5197 3.03414 13.5539 6.77694 13.5539Z" fill-rule="evenodd" clip-rule="evenodd" fill="#131E29"/>
+<path d="M13.802 15L10.4135 11.6115L11.6115 10.4135L15 13.802L13.802 15Z" fill-rule="evenodd" clip-rule="evenodd" fill="#131E29"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_9109_30303">
+<rect width="15" height="15" fill="white"/>
+</clipPath>
+</defs>
+</svg>

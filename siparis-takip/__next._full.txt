@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:"/divanev/_next/static/chunks/0b-25sk1u0a6u.js"
+3:"/divanev/_next/static/chunks/25ow9dfb_6fx6.js"
+4:I[96276,["$2","$3"],"CartProvider"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[92924,["$2","$3"],"CartNotice"]
+b:"/divanev/_next/static/chunks/0elnw_im33v9r.js"
+c:"/divanev/_next/static/chunks/2-te0-vsdj0tp.js"
+d:I[17792,["$2","$3","$b","$c"],"Header"]
+e:I[22016,["$2","$3","$b","$c"],""]
+f:I[32800,["$2","$3","$b","$c"],"OrderTrack"]
+10:I[56691,["$2","$3","$b","$c"],"Footer"]
+11:I[97367,["$2","$3"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$2","$3"],"$14"]
+17:"MetadataBoundary"
+18:I[97367,["$2","$3"],"$17"]
+1a:I[68027,["$2","$3"],"default",1]
+:HL["/divanev/_next/static/chunks/398_uig942qyv.css","style"]
+:HL["/divanev/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/_next/static/media/1d0bb6ba8433fca1-s.p.2zyohmvb-ks7f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/_next/static/media/ba63f6a0e436df8e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+9:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[[["$","$Ld",null,{"variant":"solid"}],["$","main",null,{"className":"px-4 pt-[68px] pb-16 lg:px-16 lg:pt-[102px] lg:pb-32","children":[[["$","nav",null,{"aria-label":"Sayfa yolu","className":"flex flex-wrap items-center gap-[2px] text-[11px] leading-[14px] text-ink ","children":[["$","span","Anasayfa",{"className":"flex items-center gap-[2px]","children":[false,["$","$Le",null,{"href":"/","className":"hover:underline","children":"Anasayfa"}]]}],["$","span","Siparişi Takip Et",{"className":"flex items-center gap-[2px]","children":[["$","span",null,{"className":"w-2 text-center","children":"/"}],["$","span",null,{"aria-current":"page","children":"Siparişi Takip Et"}]]}]]}],["$","div",null,{"className":"mt-8 mb-6 flex flex-col gap-6 lg:mt-[60px] lg:mb-8 lg:flex-row lg:items-end lg:justify-between","children":[["$","h1",null,{"className":"font-display text-[28px] leading-[32px] font-normal tracking-[-0.5px] lg:text-[36px] lg:leading-[40px]","children":"Siparişi Takip Et"}],"$undefined"]}]],["$","$Lf",null,{}]]}],["$","$L10",null,{}]],[["$","script","script-0",{"src":"/divanev/_next/static/chunks/0elnw_im33v9r.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/divanev/_next/static/chunks/2-te0-vsdj0tp.js","async":true,"nonce":"$undefined"}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":"siparis-takip","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","siparis-takip",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/divanev/_next/static/chunks/398_uig942qyv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/divanev/_next/static/chunks/0b-25sk1u0a6u.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/divanev/_next/static/chunks/25ow9dfb_6fx6.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"tr","className":"LLy_Qq_variable QsdtYq_variable antialiased","children":["$","body",null,{"className":"min-h-full","children":["$","$L4",null,{"children":[["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{}]]}]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":"$L16"}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":"$L19"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1a",[["$","link","0",{"rel":"stylesheet","href":"/divanev/_next/static/chunks/398_uig942qyv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"a-UkKjTfLCAjQEpYnUtQI"}
+9:C
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]
+13:null
+19:[["$","title","0",{"children":"Siparişi Takip Et | Divanev"}],["$","meta","1",{"name":"description","content":"Yataş Grup'un mobilya markası Divanev: koltuk takımları, yemek odası, yatak odası ve tamamlayıcı mobilyalar."}]]

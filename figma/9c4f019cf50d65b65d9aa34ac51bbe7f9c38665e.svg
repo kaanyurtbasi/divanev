@@ -1,0 +1,13 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="btn-select">
+<g clip-path="url(#clip0_9109_30786)">
+<circle id="Ellipse 197" cx="12" cy="12" r="12" fill="#F1F1F1"/>
+<path id="Vector 18" d="M17 12H7M11.4 7L7 12L11.4 17" stroke-width="1.5" stroke="#131E29"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_9109_30786">
+<rect width="24" height="24" rx="12" fill="white"/>
+</clipPath>
+</defs>
+</svg>

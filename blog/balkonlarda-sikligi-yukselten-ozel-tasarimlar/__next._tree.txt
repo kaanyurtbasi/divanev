@@ -1,0 +1,13 @@
+:HL["/divanev/_next/static/chunks/398_uig942qyv.css","style"]
+:HL["/divanev/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/_next/static/media/1d0bb6ba8433fca1-s.p.2zyohmvb-ks7f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/_next/static/media/ba63f6a0e436df8e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/blog/balkonlarda-sikligi-yukselten-ozel-tasarimlar-kapak-balkonlarda-sikligi-yukselten-ozel-tasarimlar.webp","image"]
+:HL["/divanev/figma/chevrons.gif","image"]
+:HL["/divanev/figma/cb75dd9d4a40de45f7d46d2b325db704be8e9243.svg","image"]
+:HL["/divanev/figma/aee1c99f82b0f3c6dfcb2dc75e002719013df524.svg","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"balkonlarda-sikligi-yukselten-ozel-tasarimlar","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"blog","h":96,"c":"$Q2"}]]
+0:{"b":"a-UkKjTfLCAjQEpYnUtQI","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

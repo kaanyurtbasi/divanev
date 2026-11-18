@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 3466923">
+<mask id="path-1-inside-1_9114_31691" fill="white">
+<path d="M0 0H16V16H0V0Z"/>
+</mask>
+<path d="M16 16V15.67H0V16V16.33H16V16Z" fill="#131E29" mask="url(#path-1-inside-1_9114_31691)"/>
+<circle id="Ellipse 195" cx="8" cy="8" r="5" fill="#A7A088"/>
+</g>
+</svg>

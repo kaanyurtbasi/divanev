@@ -1,0 +1,43 @@
+1:"$Sreact.fragment"
+2:"/divanev/_next/static/chunks/0b-25sk1u0a6u.js"
+3:"/divanev/_next/static/chunks/25ow9dfb_6fx6.js"
+4:I[96276,["$2","$3"],"CartProvider"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[92924,["$2","$3"],"CartNotice"]
+e:"/divanev/_next/static/chunks/2d2fnzlz2iusk.js"
+f:"/divanev/_next/static/chunks/2-te0-vsdj0tp.js"
+10:I[17792,["$2","$3","$e","$f"],"Header"]
+11:I[22016,["$2","$3","$e","$f"],""]
+19:"ViewportBoundary"
+1a:I[97367,["$2","$3"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$2","$3"],"$1b"]
+1d:"$Sreact.suspense"
+:HL["/divanev/_next/static/chunks/398_uig942qyv.css","style"]
+:HL["/divanev/figma/wedding-hero.webp","image"]
+9:X
+c:X
+c:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L10",null,{"variant":"overlay"}],[["$","section",null,{"className":"relative h-[409px] w-full overflow-hidden bg-ink lg:h-[56.25vw] lg:max-h-[100svh] lg:min-h-[560px] ","children":[["$","img",null,{"src":"/divanev/figma/wedding-hero.webp","alt":"","className":"absolute inset-0 size-full object-cover"}],["$","div",null,{"className":"absolute inset-0 bg-black/20"}],["$","div",null,{"className":"absolute inset-x-0 top-0 h-[160px] bg-gradient-to-b from-black/35 to-transparent"}],["$","div",null,{"className":"absolute top-1/2 left-1/2 flex w-full max-w-[720px] -translate-x-1/2 -translate-y-1/2 flex-col items-center gap-4 px-6 text-center text-white lg:gap-6","children":[["$","h1",null,{"className":"font-display text-[32px] leading-[38px] font-medium tracking-[-0.5px] lg:text-[56px] lg:leading-[56px] lg:tracking-[-0.5px]","children":"Divanev Evlilik Paketleri"}],["$","p",null,{"className":"text-[14px] leading-[18px] font-medium tracking-[-0.04px] lg:block lg:text-[16px] lg:leading-[22px] ","children":"Birlikte kuracağınız yeni hayat için uyumlu tasarımlar, sıcacık yaşam alanları. Tarzınıza ve ihtiyaçlarınıza uygun Divanev Evlilik Paketleri ile hayalinizdeki eve ilk adımı atın."}]]}],["$","nav",null,{"aria-label":"Sayfa yolu","className":"flex flex-wrap items-center gap-[2px] text-[11px] leading-[14px] text-white absolute bottom-4 left-4 lg:hidden","children":[["$","span","Anasayfa",{"className":"flex items-center gap-[2px]","children":[false,["$","$L11",null,{"href":"/","className":"hover:underline","children":"Anasayfa"}]]}],["$","span","Evlilik Paketleri",{"className":"flex items-center gap-[2px]","children":[["$","span",null,{"className":"w-2 text-center","children":"/"}],["$","span",null,{"aria-current":"page","children":"Evlilik Paketleri"}]]}]]}]]}],["$","div",null,{"className":"hidden px-16 pt-8 lg:block","children":["$","nav",null,{"aria-label":"Sayfa yolu","className":"flex flex-wrap items-center gap-[2px] text-[11px] leading-[14px] text-ink ","children":[["$","span","Anasayfa",{"className":"flex items-center gap-[2px]","children":[false,["$","$L11",null,{"href":"/","className":"hover:underline","children":"Anasayfa"}]]}],["$","span","Evlilik Paketleri",{"className":"flex items-center gap-[2px]","children":[["$","span",null,{"className":"w-2 text-center","children":"/"}],"$L12"]}]]}]}]],"$L13","$L14"],["$L15","$L16"],"$L17"]}],"p":"$@18","v":null,"s":"$9"}}]]
+a:[["children",{"s":"evlilik-paketleri","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/divanev/_next/static/chunks/398_uig942qyv.css","precedence":"next"}],["$","script","script-0",{"src":"/divanev/_next/static/chunks/0b-25sk1u0a6u.js","async":true}],["$","script","script-1",{"src":"/divanev/_next/static/chunks/25ow9dfb_6fx6.js","async":true}]],["$","html",null,{"lang":"tr","className":"LLy_Qq_variable QsdtYq_variable antialiased","children":["$","body",null,{"className":"min-h-full","children":["$","$L4",null,{"children":[["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L7",null,{}]]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Evlilik Paketleri | Divanev"}],["$","meta","1",{"name":"description","content":"Koltuk takımı, yemek odası ve yatak odası tek pakette: Divanev Evlilik Paketleri."}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1e","v":null,"s":"$9"}},"a":"$@1f","u":"$@20","b":"a-UkKjTfLCAjQEpYnUtQI"}
+21:I[81229,["$2","$3","$e","$f"],"WeddingList"]
+22:I[52887,["$2","$3","$e","$f"],"SeoText"]
+23:I[56691,["$2","$3","$e","$f"],"Footer"]
+24:I[97367,["$2","$3"],"OutletBoundary"]
+12:["$","span",null,{"aria-current":"page","children":"Evlilik Paketleri"}]
+13:["$","main",null,{"className":"flex flex-col gap-12 px-4 pt-10 pb-16 lg:gap-16 lg:px-16 lg:pt-8","children":[["$","h2",null,{"className":"font-display text-[28px] leading-[34px] font-normal tracking-[-0.25px] lg:max-w-[914px] lg:text-[36px] lg:leading-[44px] lg:tracking-[-0.5px]","children":"İlk evinizin her köşesinde sizin hikâyeniz olsun. Divanev Evlilik Paketleri ile tarzınızı yansıtan, birlikte geçireceğiniz anlara konfor katan bir yuva kurun."}],["$","$L21",null,{}],["$","$L22",null,{"title":"Evlilik Paketleri","text":"Divanev kalitesi ve tasarımlarıyla sizinle buluşturduğumuz evlilik paketlerini inceleyebilir; koltuk takımı, yemek odası ve yatak odasını tek pakette, avantajlı taksitlerle evinize taşıyabilirsiniz.","more":"Her paket birbiriyle uyumlu renk ve dokularla hazırlandı. Paket içeriğini mağazalarımızda deneyimleyebilir, kumaş ve renk seçeneklerini kendi zevkinize göre kişiselleştirebilirsiniz."}]]}]
+14:["$","$L23",null,{}]
+15:["$","script","script-0",{"src":"/divanev/_next/static/chunks/2d2fnzlz2iusk.js","async":true}]
+16:["$","script","script-1",{"src":"/divanev/_next/static/chunks/2-te0-vsdj0tp.js","async":true}]
+17:["$","$L24",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+9:300
+25:null
+20:true
+9:C
+1f:0
+b:"$undefined"
+8:"$undefined"
+1e:"$undefined"
+18:"$undefined"

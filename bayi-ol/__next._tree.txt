@@ -1,0 +1,13 @@
+:HL["/divanev/_next/static/chunks/398_uig942qyv.css","style"]
+:HL["/divanev/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/_next/static/media/1d0bb6ba8433fca1-s.p.2zyohmvb-ks7f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/_next/static/media/ba63f6a0e436df8e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/figma/chevrons.gif","image"]
+:HL["/divanev/figma/6b6854671f395b053e75d706e42090cb01f78183.webp","image"]
+:HL["/divanev/figma/42f9e3abde4403f6bc6c0375f6cd857c340ed8b8.webp","image"]
+:HL["/divanev/figma/0a9370cdddeaf63c9a83ce4710e56a427f74bb47.webp","image"]
+:HL["/divanev/figma/b5b4b61a08d437dc92b6e6ec284db096366df012.webp","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"bayi-ol","h":96,"c":"$Q2"}]]
+0:{"b":"a-UkKjTfLCAjQEpYnUtQI","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

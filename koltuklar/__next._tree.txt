@@ -1,0 +1,12 @@
+:HL["/divanev/_next/static/chunks/398_uig942qyv.css","style"]
+:HL["/divanev/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/_next/static/media/1d0bb6ba8433fca1-s.p.2zyohmvb-ks7f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/_next/static/media/ba63f6a0e436df8e-s.p.3-6t-g6q0vh0a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/divanev/figma/13d02045ae955ca6966816d5f9b73a5a9bb433de.svg","image"]
+:HL["/divanev/figma/chevrons.gif","image"]
+:HL["/divanev/figma/4e80a15e6eade0578c4920ab303728345d86f324.webp","image"]
+:HL["/divanev/figma/64c6d2177ab115dd8f25cf5ab8e8f1d371fb395d.svg","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"koltuklar","h":96,"c":"$Q2"}]]
+0:{"b":"a-UkKjTfLCAjQEpYnUtQI","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"/divanev/_next/static/chunks/0b-25sk1u0a6u.js"
+3:"/divanev/_next/static/chunks/25ow9dfb_6fx6.js"
+4:I[96276,["$2","$3"],"CartProvider"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+7:I[92924,["$2","$3"],"CartNotice"]
+10:"/divanev/_next/static/chunks/16-vh0orxmhb1.js"
+11:"/divanev/_next/static/chunks/2-te0-vsdj0tp.js"
+12:I[17792,["$2","$3","$10","$11"],"Header"]
+13:"$Sreact.suspense"
+14:I[22016,["$2","$3","$10","$11"],""]
+15:I[56691,["$2","$3","$10","$11"],"Footer"]
+16:I[97367,["$2","$3"],"OutletBoundary"]
+19:"ViewportBoundary"
+1a:I[97367,["$2","$3"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$2","$3"],"$1b"]
+:HL["/divanev/_next/static/chunks/398_uig942qyv.css","style"]
+9:X
+c:X
+c:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L12",null,{"variant":"solid"}],["$","main",null,{"className":"min-h-[60vh] px-4 pt-[76px] pb-16 lg:px-16 lg:pt-[118px]","children":["$","$13",null,{"fallback":["$","div",null,{"className":"h-[60vh]"}],"children":["$","div",null,{"className":"flex flex-col gap-4 lg:gap-8","children":[["$","nav",null,{"aria-label":"Sayfa yolu","className":"flex flex-wrap items-center gap-[2px] text-[11px] leading-[14px] text-ink ","children":[["$","span","Anasayfa",{"className":"flex items-center gap-[2px]","children":[false,["$","$L14",null,{"href":"/","className":"hover:underline","children":"Anasayfa"}]]}],["$","span","Odalar",{"className":"flex items-center gap-[2px]","children":[["$","span",null,{"className":"w-2 text-center","children":"/"}],["$","span",null,{"aria-current":"page","children":"Odalar"}]]}],["$","span","Mutfak",{"className":"flex items-center gap-[2px]","children":[["$","span",null,{"className":"w-2 text-center","children":"/"}],["$","span",null,{"aria-current":"page","children":"Mutfak"}]]}]]}],["$","section",null,{"className":"flex flex-col gap-4 lg:gap-6","children":[["$","h1",null,{"className":"font-display text-[24px] leading-[30px] font-normal tracking-[-0.25px] lg:text-[28px] lg:leading-[34px]","children":"Mutfak"}],["$","p",null,{"className":"flex h-[200px] items-center justify-center bg-card text-[14px] leading-[18px] text-muted","children":"Bu odanın ürünleri çok yakında burada."}]]}]]}]}]}],["$","$L15",null,{}]],[["$","script","script-0",{"src":"/divanev/_next/static/chunks/16-vh0orxmhb1.js","async":true}],["$","script","script-1",{"src":"/divanev/_next/static/chunks/2-te0-vsdj0tp.js","async":true}]],["$","$L16",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}],"p":"$@18","v":null,"s":"$9"}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"mutfak","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@e","v":"$c","s":"$9"},"c":"$Qf"}]]
+a:[["children",{"s":"odalar","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/divanev/_next/static/chunks/398_uig942qyv.css","precedence":"next"}],["$","script","script-0",{"src":"/divanev/_next/static/chunks/0b-25sk1u0a6u.js","async":true}],["$","script","script-1",{"src":"/divanev/_next/static/chunks/25ow9dfb_6fx6.js","async":true}]],["$","html",null,{"lang":"tr","className":"LLy_Qq_variable QsdtYq_variable antialiased","children":["$","body",null,{"className":"min-h-full","children":["$","$L4",null,{"children":[["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L7",null,{}]]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mutfak | Divanev"}],["$","meta","1",{"name":"description","content":"Yataş Grup'un mobilya markası Divanev: koltuk takımları, yemek odası, yatak odası ve tamamlayıcı mobilyalar."}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$9"}},"a":"$@1e","u":"$@1f","b":"a-UkKjTfLCAjQEpYnUtQI"}
+17:null
+9:300
+1f:true
+9:C
+1e:0
+e:"$undefined"
+b:"$undefined"
+8:"$undefined"
+1d:"$undefined"
+18:"$undefined"
